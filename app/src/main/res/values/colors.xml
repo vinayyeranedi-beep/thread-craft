@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ink">#0B0C10</color>
+    <color name="ink_soft">#14161C</color>
+    <color name="ink_line">#25272F</color>
+    <color name="paper">#EDE8DD</color>
+    <color name="paper_dim">#C9C3B5</color>
+    <color name="signal">#D6301F</color>
+    <color name="signal_glow">#FF5A3C</color>
+    <color name="thread">#C6A24D</color>
+</resources>

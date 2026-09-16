@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- T-Shirt Silhouette with bold lines -->
+    <group
+        android:translateX="0"
+        android:translateY="0">
+        <!-- Main T-Shirt Body -->
+        <path
+            android:fillColor="#EDE8DD"
+            android:pathData="M38,28 C42,34 66,34 70,28 L84,38 L76,50 L68,46 L68,78 C68,80 66,82 64,82 L44,82 C42,82 40,80 40,78 L40,46 L32,50 L24,38 Z" />
+        <!-- Collar Notch Accent -->
+        <path
+            android:fillColor="#0B0C10"
+            android:pathData="M44,28 C46,33 62,33 64,28 C60,31 48,31 44,28 Z" />
+        <!-- Gold Thread / Needle Accent -->
+        <path
+            android:fillColor="#C6A24D"
+            android:pathData="M52,44 L56,44 L56,66 L52,66 Z" />
+        <path
+            android:fillColor="#D6301F"
+            android:pathData="M47,52 L61,52 L54,61 Z" />
+    </group>
+</vector>

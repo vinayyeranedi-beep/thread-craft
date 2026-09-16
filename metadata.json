@@ -1,0 +1,8 @@
+{
+  "name": "ThreadCraft",
+  "description": "Premium custom T-shirt 3D studio and printing services app for events, teams, brands, and everyday style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
